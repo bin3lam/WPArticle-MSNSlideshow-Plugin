@@ -1,0 +1,1 @@
+# WPArticle-MSNSlideshow-Plugin
