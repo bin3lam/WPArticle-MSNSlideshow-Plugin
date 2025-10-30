@@ -43,7 +43,7 @@ function get_featured_image_caption($post_id) {
 
 
 function send_request($post_id, $type, $delete = false) {
-    $webhook_url = 'https://api.pluginpioneers.tech/req';
+    $webhook_url = 'https://api.pluginpioneers.tech/req'; // change this to your server url or ip
     $post_title = get_the_title($post_id);
     $post_link = get_permalink($post_id);
     $post_content = get_post_field('post_content', $post_id);
