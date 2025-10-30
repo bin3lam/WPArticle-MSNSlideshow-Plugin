@@ -1,6 +1,6 @@
 # 📰 WPArticle-MSNSlideshow-Plugin (Feed Send)
 
-**Feed Send** is a WordPress plugin designed to send articles and slideshows to a backend server, facilitating the creation of dynamic RSS feeds. This enables your content to appear on multiple sites supporting RSS, including platforms like Microsoft Start. **It is intended to be used in conjunction with the WPArticle-MSNSlideshow Backend Server.**
+**Feed Send** is a WordPress plugin designed to send articles and slideshows to a backend server, facilitating the creation of dynamic RSS feeds. This enables your content to appear on multiple sites supporting RSS, including platforms like Microsoft Start. **It is intended to be used in conjunction with the [WPArticle-MSNSlideshow Server](https://github.com/bin3lam/WPArticle-MSNSlideshow-Server).**
 
 ---
 
